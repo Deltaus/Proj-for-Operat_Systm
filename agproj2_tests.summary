@@ -1,0 +1,14 @@
+------[ Sat May 19 12:20:07 2018 ]------
+PASS : Test write1.c
+PASS : Test write4.c
+PASS : Test write10.c
+PASS : Test exec1.c
+PASS : Test join1.c
+
+------[ Sat May 19 20:41:19 2018 ]------
+PASS : Test write1.c
+PASS : Test write4.c
+PASS : Test write10.c
+PASS : Test exec1.c
+PASS : Test join1.c
+
